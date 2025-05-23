@@ -1,4 +1,4 @@
-# Phishing Link Analyzer 🔍
+# Phishing Link Analyser 🔍
 
 A CLI-based tool to analyze URLs for potential phishing indicators. This tool helps identify malicious and suspicious websites by checking against blocklists, detecting brand impersonation, and analyzing suspicious patterns.
 
